@@ -1,0 +1,8 @@
+baseurl = "http://www.usenet.net.nz/"
+languageCode = "en-us"
+title = "Usenet NZ"
+description = "Zee UsenetNZ"
+
+[permalinks]
+	page = "/:title/"
+	about = "/:filename/"

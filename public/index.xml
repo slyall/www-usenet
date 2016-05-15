@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Usenet NZ</title>
+    <link>http://www.usenet.net.nz/</link>
+    <description>Recent content on Usenet NZ</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 May 2016 23:40:06 +1200</lastBuildDate>
+    <atom:link href="http://www.usenet.net.nz/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Usenet New Zealand</title>
+      <link>http://www.usenet.net.nz/</link>
+      <pubDate>Sat, 14 May 2016 23:40:06 +1200</pubDate>
+      
+      <guid>http://www.usenet.net.nz/</guid>
+      <description>
+
+&lt;h1 id=&#34;about-usenet-new-zealand:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;About Usenet New Zealand&lt;/h1&gt;
+
+&lt;p&gt;The domain usenet.net.nz is owned by &lt;a href=&#34;http://www.simonlyall.com&#34;&gt;Simon Lyall&lt;/a&gt; and are used to host various
+projects and resources&lt;/p&gt;
+
+&lt;p&gt;Previously it hosted some various services related to &lt;a href=&#34;https://en.wikipedia.org/wiki/Usenet&#34;&gt;Usenet&lt;/a&gt;
+especially the &amp;ldquo;nz.*&amp;rdquo; newsgroups but this has not been the case for many
+years. The name however has been kept.&lt;/p&gt;
+
+&lt;h2 id=&#34;simon-s-sites:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Simon&amp;rsquo;s Sites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.simonlyall.com/&#34;&gt;Simon Lyall&amp;rsquo;s homepage&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.darkmere.gen.nz/&#34;&gt;Simon Lyall&amp;rsquo;s blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.darkmere.gen.nz/&#34;&gt;Simon Lyall&amp;rsquo;s old homepage&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;other-sites-hosted:d680e8a854a7cbad6d490c445cba2eba&#34;&gt;Other Sites Hosted&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://auckland.thursdaynightcurry.com/&#34;&gt;Auckland Thursday Night Curry&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://sysadmin.miniconf.org/&#34;&gt;The linux.conf.au Sysadmin Miniconf&lt;/a&gt; 2004-present&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.aucklandchess.nz&#34;&gt;The Auckland Chess Centre&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://nznog.miniconf.org/&#34;&gt;The NZNOG Sysadmin Miniconf&lt;/a&gt; 2007-2009&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
