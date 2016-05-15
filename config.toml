@@ -1,8 +1,8 @@
 baseurl = "http://www.usenet.net.nz/"
 languageCode = "en-us"
-title = "Usenet NZ"
-description = "Zee UsenetNZ"
+title = "Usenet New Zealand"
+description = "Homepage for Usenet New Zealand"
 
 [permalinks]
-	page = "/:title/"
-	about = "/:filename/"
+#	page = "/:title/"
+#	about = "/:filename/"
