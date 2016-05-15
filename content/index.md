@@ -3,10 +3,8 @@ date = "2016-05-14T23:40:06+12:00"
 draft = false
 title = "Usenet New Zealand"
 type = "index"
-#slug = ""
+description = "Zee Usenet"
 +++
-
-# About Usenet New Zealand
 
 The domain usenet.net.nz is owned by [Simon Lyall](http://www.simonlyall.com) and are used to host various
 projects and resources
