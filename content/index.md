@@ -15,15 +15,16 @@ years. The name however has been kept.
 
 ## Simon's Sites
 
-* [Simon Lyall's homepage](http://www.simonlyall.com/)
-* [Simon Lyall's blog](http://blog.darkmere.gen.nz/)
-* [Simon Lyall's old homepage](http://www.darkmere.gen.nz/)
+* [Simon Lyall's homepage](https://www.simonlyall.com/)
+* [Simon Lyall's blog](https://blog.darkmere.gen.nz/)
+* [Simon Lyall's old homepage](https://www.darkmere.gen.nz/)
 
 ## Other Sites Hosted
 
-* [Auckland Thursday Night Curry](http://auckland.thursdaynightcurry.com/)
-* [The linux.conf.au Sysadmin Miniconf](http://sysadmin.miniconf.org/) 2004-present
-* [The Auckland Chess Centre](http://www.aucklandchess.nz)
-* [The NZNOG Sysadmin Miniconf](http://nznog.miniconf.org/) 2007-2009
+* [Auckland Thursday Night Curry](https://auckland.thursdaynightcurry.com/)
+* [The Auckland Chess Centre](https://www.aucklandchess.nz)
+* [Tolkien New Zealand](https://www.tolkien.nz)
+* [The linux.conf.au Sysadmin Miniconf](https://sysadmin.miniconf.org/) 2004-2022
+* [The NZNOG Sysadmin Miniconf](https://nznog.miniconf.org/) 2007-2009
 
 

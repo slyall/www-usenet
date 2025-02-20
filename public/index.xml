@@ -1,16 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Usenet New Zealand</title>
     <link>http://www.usenet.net.nz/</link>
     <description>Recent content on Usenet New Zealand</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 14 May 2016 23:40:06 +1200</lastBuildDate>
-    
-	<atom:link href="http://www.usenet.net.nz/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://www.usenet.net.nz/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Usenet New Zealand</title>
       <link>http://www.usenet.net.nz/</link>
@@ -19,7 +14,7 @@
       <guid>http://www.usenet.net.nz/</guid>
       <description>The domain usenet.net.nz is owned by Simon Lyall and are used to host various projects and resources
 Previously it hosted some various services related to Usenet especially the &amp;ldquo;nz.*&amp;rdquo; newsgroups but this has not been the case for many years. The name however has been kept.
-Simon&amp;rsquo;s Sites  Simon Lyall&amp;rsquo;s homepage Simon Lyall&amp;rsquo;s blog Simon Lyall&amp;rsquo;s old homepage  Other Sites Hosted  Auckland Thursday Night Curry The linux.</description>
+Simon&amp;rsquo;s Sites  Simon Lyall&amp;rsquo;s homepage Simon Lyall&amp;rsquo;s blog Simon Lyall&amp;rsquo;s old homepage  Other Sites Hosted  Auckland Thursday Night Curry The Auckland Chess Centre Tolkien New Zealand The linux.</description>
     </item>
     
   </channel>
